@@ -1,7 +1,7 @@
 # Event Ticketing Platform
 
 ## Team Information
-- **Team Name:** [ Team22 ]  
+- **Team Name:** [ Team10 ]  
 - **Team Members:**  
   - Member 1 – tlaytmass6@gmail.com  
   - Member 2 – tmekhoe@constructor.university
